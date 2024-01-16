@@ -17,13 +17,13 @@ Florabelle is an eco-conscious luxury fashion brand's mock eCommerce application
 Here's how you can use Florabelle to explore and shop for eco-conscious fashion items:
 
 - **Exploring Products**: Navigate through the carousel and product cards.
-  <img src="https://github.com/amcrochet3/florabelle/assets/123776329/ab433861-ff5f-4da6-a613-5920a3e4297e" width="600">
-  
+  <img src="https://github.com/amcrochet3/florabelle/assets/123776329/5ed9294c-9eb8-482a-bb03-75e4922cf4cd" width="600">
+
 - **Adding Items to Cart**: Select items to add to your shopping cart.
   <img src="https://github.com/amcrochet3/florabelle/assets/123776329/561908c5-af5f-4199-acae-47128c662bcd" width="600">
   
 - **Managing Cart**: View, update quantities, or remove items from the cart.
-  <img src="https://github.com/amcrochet3/florabelle/assets/123776329/caaba3e2-8db1-40d7-b3ae-3a1fa9575328" width="600">
+  <img src="https://github.com/amcrochet3/florabelle/assets/123776329/23a930d1-b178-4383-a423-aec5303a8441" width="600">
 
 ## Tech Stack
 
