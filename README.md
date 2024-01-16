@@ -17,11 +17,13 @@ Florabelle is an eco-conscious luxury fashion brand's mock eCommerce application
 Here's how you can use Florabelle to explore and shop for eco-conscious fashion items:
 
 - **Exploring Products**: Navigate through the carousel and product cards.
-  - ![Florabelle- Carousel](https://github.com/amcrochet3/florabelle/assets/123776329/ab433861-ff5f-4da6-a613-5920a3e4297e)
+  <img src="https://github.com/amcrochet3/florabelle/assets/123776329/ab433861-ff5f-4da6-a613-5920a3e4297e" width="600">
+  
 - **Adding Items to Cart**: Select items to add to your shopping cart.
-  - ![Florabelle- Product Cards](https://github.com/amcrochet3/florabelle/assets/123776329/561908c5-af5f-4199-acae-47128c662bcd)
+  <img src="https://github.com/amcrochet3/florabelle/assets/123776329/561908c5-af5f-4199-acae-47128c662bcd" width="600">
+  
 - **Managing Cart**: View, update quantities, or remove items from the cart.
-  - ![Florabelle- Shopping Cart](https://github.com/amcrochet3/florabelle/assets/123776329/caaba3e2-8db1-40d7-b3ae-3a1fa9575328)
+  <img src="https://github.com/amcrochet3/florabelle/assets/123776329/caaba3e2-8db1-40d7-b3ae-3a1fa9575328" width="600">
 
 ## Tech Stack
 
@@ -30,16 +32,29 @@ Here's how you can use Florabelle to explore and shop for eco-conscious fashion 
 - CSS
 - Bootstrap
 
-## Installation
+## Set Up & Installation
+### Prerequisites:
+- Node.js
+- npm (Node Package Manager)
 
-To get a local copy up and running, follow these simple steps:
+### Steps:
+1. Clone this repository to your local machine:
+   ```shell
+   $ git clone https://github.com/amcrochet3/florabelle.git
 
-```bash
-git clone https://github.com/your-username/florabelle.git
-cd florabelle
-npm install
-npm start
-```
+2. Navigate to the project directory:
+   ```shell
+   $ cd florabelle
+
+3. Install necessary dependencies using npm:
+   ```shell
+   $ npm install
+
+4. Ensure you have any required environmental variables or additional setup completed (if applicable).
+
+5. To run the app:
+   ```shell
+   $ npm start
 
 ## Future Implementations
 
