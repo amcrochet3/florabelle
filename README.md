@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# Florabelle 🌸👗
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Florabelle is an eco-conscious luxury fashion brand's mock eCommerce application, built to showcase a seamless and interactive shopping experience. This project leverages the power of React.js to create a user-friendly interface with dynamic components and real-time updates.
 
-## Available Scripts
+## Deployed Site
 
-In the project directory, you can run:
+[Florabelle](https://amcrochet3.github.io/florabelle-deployed/)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Interactive Carousel**: A visually appealing display of featured products.
+- **Dynamic Product Cards**: Users can view, select, and manage products.
+- **Intuitive Shopping Cart**: Real-time updates with cart functionality.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
 
-### `npm test`
+Here's how you can use Florabelle to explore and shop for eco-conscious fashion items:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Exploring Products**: Navigate through the carousel and product cards.
+  - ![Florabelle- Carousel](https://github.com/amcrochet3/florabelle/assets/123776329/ab433861-ff5f-4da6-a613-5920a3e4297e)
+- **Adding Items to Cart**: Select items to add to your shopping cart.
+  - ![Florabelle- Product Cards](https://github.com/amcrochet3/florabelle/assets/123776329/561908c5-af5f-4199-acae-47128c662bcd)
+- **Managing Cart**: View, update quantities, or remove items from the cart.
+  - ![Florabelle- Shopping Cart](https://github.com/amcrochet3/florabelle/assets/123776329/caaba3e2-8db1-40d7-b3ae-3a1fa9575328)
 
-### `npm run build`
+## Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React.js
+- HTML
+- CSS
+- Bootstrap
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To get a local copy up and running, follow these simple steps:
 
-### `npm run eject`
+```bash
+git clone https://github.com/your-username/florabelle.git
+cd florabelle
+npm install
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Future Implementations
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **User Authentication**: Implementing a secure login and registration system for personalized user experiences.
+- **Payment Gateway Integration**: Adding support for seamless and secure online transactions.
+- **Mobile App Version**: Developing a mobile application to enhance accessibility and convenience for users on-the-go.
+- **Advanced Filtering and Search**: Implementing more sophisticated search and filter options for products.
+- **Size Selection for Products**: Enabling customers to select sizes for clothing and accessories, enhancing the shopping experience.
