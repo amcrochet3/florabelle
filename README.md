@@ -62,4 +62,4 @@ Here's how you can use Florabelle to explore and shop for eco-conscious fashion 
 - **Payment Gateway Integration**: Adding support for secure online transactions.
 - **Mobile App Version**: Developing a mobile application to enhance accessibility and convenience.
 - **Advanced Filtering and Search**: Implementing more sophisticated search and filter options for products.
-- **Size Selection for Products**: Enabling customers to select sizes for clothing and accessories, enhancing the shopping experience.
+- **Size Selection for Products**: Enabling customers to select sizes for clothing and accessories.
